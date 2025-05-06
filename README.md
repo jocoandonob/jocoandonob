@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Joco Andonov!
 
 I'm an **AI Developer** passionate about building intelligent systems, machine learning models, and creative AI applications. I love exploring the intersection of deep learning, computer vision, and natural language processing.
 
@@ -9,7 +9,7 @@ I'm an **AI Developer** passionate about building intelligent systems, machine l
 - 🔭 Currently working on: Virtual Try-On, Generative AI, and Computer Vision projects
 - 🌱 Learning: Advanced deep learning architectures, MLOps, and scalable AI deployment
 - 💬 Ask me about: Python, PyTorch, TensorFlow, Gradio, OpenCV, and AI research
-- 📫 How to reach me: [your.email@example.com] or [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: jocoandonov1221@gmail.com or [LinkedIn](https://www.linkedin.com/in/jocoandonob)
 - ⚡ Fun fact: I enjoy contributing to open-source AI projects and writing technical blogs
 
 ---
